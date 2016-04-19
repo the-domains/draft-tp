@@ -1,7 +1,7 @@
 name: Draft-TP
 favicon: null
-layout_spectrum: 0.3036687260027975
-typography_spectrum: 0.3299724122043699
+layout_spectrum: 0.96672
+typography_spectrum: 0.85572
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.46632583532482386
-  lightness: 0.9098500781692564
-  saturation: 0.46804571826942265
+    - '#353535'
+    - '#d7d7d7'
+    - '#f7f7f7'
+    - '#bcbcbc'
+    - '#8e8e8e'
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 0.75
   rhythmicContrast: 0.8823620602488518
 purpose: []
