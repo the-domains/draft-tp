@@ -1,0 +1,28 @@
+name: Draft-TP
+favicon: null
+layout_spectrum: 0.3036687260027975
+typography_spectrum: 0.3299724122043699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.46632583532482386
+  lightness: 0.9098500781692564
+  saturation: 0.46804571826942265
+  rhythmicContrast: 0.8823620602488518
+purpose: []
